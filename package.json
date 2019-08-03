@@ -19,7 +19,6 @@
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
     "express-session": "^1.16.2",
-    "mapbox-gl": "^1.2.0",
     "mongoose": "^5.2.10",
     "morgan": "^1.9.0",
     "oauth": "^0.9.15",
